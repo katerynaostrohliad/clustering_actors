@@ -1,6 +1,6 @@
 # 🎬 Actor Clustering and Visualization with t-SNE
 
-This project connects to a PostgreSQL database containing movie and credits data, processes the data to extract actor-level features, clusters them using K-Means, and visualizes the results using t-SNE in both 2D and 3D.
+This project connects to a PostgreSQL database containing movie and credits data, processes the data to extract actor-level features, clusters them using K-Means, and visualizes the results using t-SNE in 2D.
 
 ## 📌 Features
 
